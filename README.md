@@ -10,7 +10,7 @@ Features
 --
   ✅ Fully Undetected, since Trove does not have Anti Cheat <br>
   ✅ Insta Mining (allows you to dig up ore and block instant) <br>
-  ✅ Speed Hack (x2, x3, x4 - allows you to move very fast) (suggest to use x2) <br>
+  ✅ Speed Hack (x2, x3, x4 - allows you to move very fast) <br>
   ✅ Map Hack (removes restrictions from the map) <br>
   ✅ X-Ray (allows you to look through blocks and find ore) <br>
   🔒 Auto Fishing Script (currently, in progress) <br>
