@@ -1,6 +1,8 @@
 <a id="top"></a>
 <h1 align="center">
 Trove Trainer 2024
+--
+  Just a simple Trove Trainer, updated op codes :3
 </h1>
 
 - [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
@@ -9,6 +11,7 @@ Trove Trainer 2024
 Features
 --
   ✅ Fully Undetected, since Trove does not have Anti Cheat
+  
 --
 
 🚀 Supports Latest Browsers:
