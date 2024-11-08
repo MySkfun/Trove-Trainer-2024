@@ -1,6 +1,6 @@
 <a id="top"></a>
 <h1 align="center">
-# Trove Trainer 2024
+Trove Trainer 2024
 </h1>
 
 [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
