@@ -14,6 +14,7 @@ Features
   ✅ Map Hack (removes restrictions from the map) <br>
   ✅ X-Ray (allows you to look through blocks and find ore) <br>
   🔒 Auto Fishing Script (currently, in progress)
+  --
 Requirements
 --
   🆗 Install WinRAR (to extract the zip folder) <br>
