@@ -6,13 +6,11 @@ Trove Trainer 2024
 - [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
 - [Weebly Website](https://trove-trainer.weebly.com)
 
-==Features==
-* Fully Undetected since Trove does not have Anti-Cheat :3
-* No Clip (allows you to walk through blocks)
-* 
-*  <br>
-🖥️ System Info <br>
+Features
 --
+  ✅ Fully Undetected, since Trove does not have Anti Cheat
+--
+
 🚀 Supports Latest Browsers:
 ✅ Chrome v127+ (Brave, Chrome, Edge, Opera)
 ✅ Gecko Browsers (Firefox)
