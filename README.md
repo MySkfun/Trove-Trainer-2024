@@ -3,8 +3,8 @@
 Trove Trainer 2024
 </h1>
 
-[Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
-[Shitty Website](https://trove-trainer.weebly.com)
+- [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
+- [Shitty Website](https://trove-trainer.weebly.com)
 
 Features
 Fully Undetected since Trove does not have Anti-Cheat :3
