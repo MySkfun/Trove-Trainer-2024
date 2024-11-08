@@ -6,7 +6,7 @@ Trove Trainer 2024
 - [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
 - [Shitty Website](https://trove-trainer.weebly.com)
 
-Features
+==Features==
 Fully Undetected since Trove does not have Anti-Cheat :3
 *  <br>
 🖥️ System Info <br>
