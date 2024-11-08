@@ -19,6 +19,6 @@ Requirements
 --
   🆗 Install WinRAR (to extract the zip folder) <br>
   🆗 Install Cheat Engine 7.5 <br>
-  🆗 Disable Windows Defender (or any other Antivirus, they might block the program, since false positives, caused by obfuscation) <br>
+  🆗 Disable Windows Defender (or any other Antivirus, they might block the program, since false positives, caused by obfuscation)
 --
   
