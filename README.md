@@ -9,7 +9,9 @@ Trove Trainer 2024 - Just a simple Trove Trainer, updated op codes :3
 Features
 --
   ✅ Fully Undetected, since Trove does not have Anti Cheat
+--
   ✅ Insta Mining (allows you to dig up ore and block instant)
+--
   ✅ Speed Hack (x2, x3, x4 - allows you to move very fast) (suggest to use x2)
   ✅ Map Hack (removes restrictions from the map)
   ✅ X-Ray (allows you to look through blocks and find ore)
