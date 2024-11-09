@@ -1,6 +1,6 @@
 <a id="top"></a>
 <h1 align="center">
-  Trove Trainer 2024 - Just a simple free Trove Trainer, updated op codes :3
+  Trove Trainer 2024 - Just a simple Trove Trainer, updated op codes :3
 </h1>
 
 - [Join our Discord Server](https://discord.gg/MNxZ4AtqWp)
